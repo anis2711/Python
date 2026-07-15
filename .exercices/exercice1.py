@@ -1,7 +1,6 @@
 #demande des information aux utilisateurs
 nom = input("Entrez votre nom : ")
 prenom = input("Entrez votre prénom : ")
-age = int(input("Entrez votre âge : "))
 
 #demande des informations sur la naissance
 
